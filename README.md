@@ -1,3 +1,5 @@
+Открыть ноутбук в Google Colab: https://colab.research.google.com/github/damirivaleev/Cleaned-vs-Dirty-V2
+
 # Cleaned-vs-Dirty-V2
 
 - Задача классифицировать чистые и грязные тарелки
